@@ -1,3 +1,4 @@
+##bruce赵
 ![enter image description here][1]
 
 #How to Deploy your own Private Docker Registry
