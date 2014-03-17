@@ -1,3 +1,4 @@
+##bruce赵
 ##在 Mac OS 10.9 上安装 Fish Shell
 
 [Fish](http://fishshell.com) 是一个不那么流行但是非常好用的交互式 Shell ，在 Mac OS 上可以使用 brew 命令进行安装，或者下载 [pkg](http://fishshell.com/files/2.1.0/fish.pkg) 文件进行安装。

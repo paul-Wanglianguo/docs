@@ -1,3 +1,4 @@
+##bruce赵
 #From zero to fully working CI server in less than 10 minutes with Drone & Docker
 
 
